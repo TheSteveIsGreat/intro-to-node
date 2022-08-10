@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TheSteveIsGreat/intro-to-node/issues"
   },
-  "homepage": "https://github.com/TheSteveIsGreat/intro-to-node#readme"
+  "homepage": "https://github.com/TheSteveIsGreat/intro-to-node#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
 }
